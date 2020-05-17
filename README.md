@@ -43,7 +43,7 @@ c. Linear SVC
 d. RBF Kernel SVC
   ![RBF Kernel SVC](https://github.com/ishitap11/Breast-Cancer-Classification/blob/master/Images/SvcKernelCR.PNG)
 
-### 3. Accuracy Scores with and withour feature scaling
+### 3. Accuracy Scores with and without feature scaling
 
   ![Model accuracy scores](https://github.com/ishitap11/Breast-Cancer-Classification/blob/master/Images/modelbargraph.PNG)
 
