@@ -30,6 +30,8 @@ B. Validation (Test) data
 ### 2. Classification Reports
 
 a. K-Nearest Neighbors
+ ![K-Nearest Neighbors](https://github.com/ishitap11/Breast-Cancer-Classification/blob/master/Images/KnnCR.PNG)
+
 b. Logistic Regression
 c. Linear SVC
 d. RBF Kernel SVC
